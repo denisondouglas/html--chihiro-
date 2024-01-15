@@ -39,6 +39,14 @@ p {
   font-weight: lighter;
 }
 
+.menu,
+a {
+  text-decoration: none;
+  margin-left: 18px;
+  letter-spacing: 1px;
+  color: #111111;
+}
+
 .link-filme {
   display: inline-block;
   margin-left: 18px;
@@ -46,8 +54,8 @@ p {
   margin-top: 15px;
   width: 180px;
   height: 25px;
-  color: #f1f1f1;
-  background-color: #214247;
+  color: #111111;
+  background-color: rgb(101, 173, 162);
   text-align: center;
   border-radius: 100px;
   text-transform: uppercase;
