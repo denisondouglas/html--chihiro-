@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Sans", sans-serif;
+}
+
+.links-cabecalho {
+  color: rgb(76, 44, 92);
+  position: absolute;
+  right: 200px;
+  top: 32px;
+  word-spacing: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 20px;
+  display: inline-block;
+}
+img {
+  width: 700px;
+}
+
+a {
+  text-decoration: none;
+}
