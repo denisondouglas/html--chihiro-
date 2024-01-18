@@ -2,13 +2,17 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Roboto Sans", sans-serif;
+  font-family: "Roboto Mono", sans-serif;
+}
+
+body {
+  background-color: #e1e1e8;
 }
 
 .links-cabecalho {
-  color: rgb(76, 44, 92);
+  color: #b4a3c4;
   position: absolute;
-  right: 200px;
+  right: 180px;
   top: 32px;
   word-spacing: 16px;
   text-transform: uppercase;
@@ -16,8 +20,45 @@
   font-size: 20px;
   display: inline-block;
 }
+
+.titulos-principais {
+  position: absolute;
+  color: #318ebd;
+  left: 850px;
+  top: 200px;
+  font-size: 20px;
+}
+
+.textos {
+  position: absolute;
+  top: 500px;
+  margin-left: 16px;
+  color: #120135;
+}
+
+hr {
+  background-color: #ad6090;
+  height: 3px;
+  border: none;
+  display: block;
+}
+
+h3 {
+  font-size: 28px;
+  color: #f1c692 !important;
+}
+
+h4 {
+  font-size: 28px;
+  color: #f1c692 !important;
+}
+
 img {
-  width: 700px;
+  margin-top: 16px;
+  margin-left: 16px;
+  width: 800px;
+  position: absolute;
+  top: 0;
 }
 
 a {
