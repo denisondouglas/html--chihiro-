@@ -3,4 +3,73 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Roboto Mono", sans-serif;
+  background-color: rgb(201, 211, 206);
+}
+
+header {
+  position: absolute;
+  font-size: 22px;
+  font-weight: 700;
+  margin-left: 850px;
+  word-spacing: 12px;
+  top: 250px;
+  text-transform: uppercase;
+}
+
+.header-img {
+  margin-top: 16px;
+  width: 750px;
+  position: relative;
+}
+
+.img-paragrafo1 {
+  width: 760px;
+  margin-left: 16px;
+  margin-top: 16px;
+}
+
+.img-paragrafo2 {
+  width: 760px;
+  margin-left: 16px;
+  margin-top: 16px;
+}
+
+.img-paragrafo3 {
+  width: 760px;
+  margin-left: 16px;
+  margin-top: 16px;
+}
+
+.paragrafo-0 {
+  margin-left: 16px;
+  margin-top: 12px;
+}
+
+.paragrafo-1 {
+  margin-left: 16px;
+  margin-top: 12px;
+}
+
+.paragrafo-2 {
+  margin-left: 16px;
+  margin-top: 12px;
+}
+
+.paragrafo-3 {
+  margin-left: 16px;
+  margin-top: 12px;
+}
+
+a {
+  text-decoration: none;
+  color: #eb8f65;
+}
+
+p {
+  color: #2b324e;
+}
+
+h1,
+h2 {
+  color: #dc252b;
 }
